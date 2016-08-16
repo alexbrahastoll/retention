@@ -1,5 +1,5 @@
 require 'spec_helper'
-require 'retention'
+require 'retention/period'
 
 RSpec.describe Retention::Period do
   describe '#==' do

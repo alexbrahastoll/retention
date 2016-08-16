@@ -1,5 +1,5 @@
 require 'spec_helper'
-require 'retention'
+require 'retention/analysis'
 
 RSpec.describe Retention::Analysis do
   describe '#initialize' do
